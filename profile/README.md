@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/github-hero.png" alt="Mihrab — prayer times, the Madinah mushaf, dua, tasbih and a fasting log" width="100%">
 
-  ### A calm, private, offline-first companion for the day's intentions
+  ### The Muslim companion — for every prayer, and everything between
 
-  Prayer times and a qibla compass, the Madinah muṣḥaf in four riwāyāt with recitation, tafsir and tajweed colours, dua and tasbih, a fasting and prayer journal, home-screen widgets, and sync between your own devices with no account and no server.
+  Prayer times, the adhan and a qibla compass; the Madinah muṣḥaf in four riwāyāt with recitation, tajweed colours on Ḥafṣ and Warsh, a word reader and tafsir; duas, tasbih, and a fasting and prayer journal; home-screen widgets; and sync between your own devices with no account and no server.
 
   **No ads · No analytics · No tracking · Free and open source (AGPL-3.0)**
 
