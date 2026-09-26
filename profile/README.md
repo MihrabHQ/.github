@@ -19,7 +19,7 @@
 
   <br>
 
-  <img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/01_home.png" width="24%" alt="Home — the next prayer and its countdown">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/02_quran.png" width="24%" alt="The Madinah muṣḥaf">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/05_qibla.png" width="24%" alt="Qibla compass">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/09_widgets.png" width="24%" alt="Home-screen widgets">
+  <img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/01_home.png" width="24%" alt="Home — the next prayer and its countdown">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/02_quran.png" width="24%" alt="The Madinah muṣḥaf">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/05_qibla.png" width="24%" alt="Qibla compass">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/07_tilawah.png" width="24%" alt="Tilawah — listening surah into surah">
 </div>
 
 ---
