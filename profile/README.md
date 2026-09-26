@@ -33,8 +33,8 @@
 
 ### Get involved
 
-- 🐞 Found a bug or have an idea? [Open an issue](https://github.com/MihrabHQ/Mihrab/issues/new/choose)
-- 🌍 Help translate or check a prayer-time method for your city — start with an issue
-- 🌐 Website: [mihrab.elghamri.se](https://mihrab.elghamri.se/)
+- Found a bug or have an idea? [Open an issue](https://github.com/MihrabHQ/Mihrab/issues/new/choose)
+- Help translate or check a prayer-time method for your city — start with an issue
+- Website: [mihrab.elghamri.se](https://mihrab.elghamri.se/)
 
 <sub>Created and maintained by [@Hassan-PS](https://github.com/Hassan-PS).</sub>
