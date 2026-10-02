@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/github-hero.png" alt="Mihrab — prayer times, the Madinah mushaf, dua, tasbih and a fasting log" width="100%">
+  <img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/github-hero.png" alt="Mihrab, The Muslim Companion — for every prayer, and everything between. Calm, private, offline-first." width="100%">
 
   ### The Muslim companion — for every prayer, and everything between
 
-  Prayer times, the adhan and a qibla compass; the Madinah muṣḥaf in four riwāyāt with recitation, tajweed colours on Ḥafṣ and Warsh, a word reader and tafsir; duas, tasbih, and a fasting and prayer journal; home-screen widgets; and sync between your own devices with no account and no server.
+  Prayer times, the adhan and a qibla compass; the Madinah muṣḥaf in four riwāyāt with recitation, tajweed colours on Ḥafṣ and Warsh, a word reader and tafsir; Tilāwah for listening surah into surah with the screen off, keeping its own place and suggesting what the sunnah recommends at that hour; duas, tasbih, and a fasting and prayer journal; home-screen widgets; and sync between your own devices with no account and no server. iPhone, iPad, Android and Mac, in 13 languages.
 
   **No ads · No analytics · No tracking · Free and open source (AGPL-3.0)**
 
@@ -19,7 +19,7 @@
 
   <br>
 
-  <img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/01_home.png" width="24%" alt="Home — the next prayer and its countdown">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/02_quran.png" width="24%" alt="The Madinah muṣḥaf">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/05_qibla.png" width="24%" alt="Qibla compass">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/07_tilawah.png" width="24%" alt="Tilawah — listening surah into surah">
+  <img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/01_home.png" width="24%" alt="Today — the day’s sky behind the next prayer and its countdown">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/02_quran.png" width="24%" alt="The Madinah muṣḥaf in tajweed colour, the recited word lit">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/05_qibla.png" width="24%" alt="Qibla compass">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/07_tilawah.png" width="24%" alt="Tilawah — listening surah into surah">
 </div>
 
 ---
@@ -34,6 +34,7 @@
 ### Get involved
 
 - Found a bug or have an idea? [Open an issue](https://github.com/MihrabHQ/Mihrab/issues/new/choose)
+- Rate Mihrab where you got it, and tell family and friends — the app does not take money, and this is how it reaches the next person
 - Help translate or check a prayer-time method for your city — start with an issue
 - Website: [mihrab.elghamri.se](https://mihrab.elghamri.se/)
 
