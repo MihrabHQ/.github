@@ -38,13 +38,14 @@
 | | |
 |---|---|
 | [**Mihrab**](https://github.com/MihrabHQ/Mihrab) | The app — iOS, iPadOS, Android and macOS, built with React Native |
+| [**mihrab-methods**](https://github.com/MihrabHQ/mihrab-methods) | Open prayer-time calculations that reproduce national authorities' timetables to the minute — Sweden (Diyanet's method, as in Islamiska Förbundet's timetables), Morocco, Algeria and Indonesia. Free for anyone to use |
 | [**homebrew-tap**](https://github.com/MihrabHQ/homebrew-tap) | The Homebrew cask for the Mac app |
 
 ### Get involved
 
 - Found a bug or have an idea? [Open an issue](https://github.com/MihrabHQ/Mihrab/issues/new/choose)
 - Rate Mihrab where you got it, and tell family and friends — the app does not take money, and this is how it reaches the next person
-- Help translate or check a prayer-time method for your city — start with an issue
+- Help translate or check a prayer-time method for your city — start with an issue, or with [mihrab-methods](https://github.com/MihrabHQ/mihrab-methods)
 - Website: [mihrab.elghamri.se](https://mihrab.elghamri.se/)
 
 <sub>Created and maintained by [@Hassan-PS](https://github.com/Hassan-PS).</sub>
