@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/github-hero.png" alt="Mihrab, The Muslim Companion — for every prayer, and everything between. Calm, private, offline-first." width="100%">
+  <img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/github-hero.png?v=2026-10-16" alt="Mihrab, The Muslim Companion — for every prayer, and everything between. Calm, private, offline-first." width="100%">
 
   ### The Muslim companion — for every prayer, and everything between
 
-  Prayer times, the adhan and a qibla compass; the Madinah muṣḥaf in four riwāyāt with recitation, tajweed colours on Ḥafṣ and Warsh, a word reader and tafsir; Tilāwah for listening surah into surah with the screen off, keeping its own place and suggesting what the sunnah recommends at that hour; duas, tasbih, and a fasting and prayer journal; home-screen widgets; and sync between your own devices with no account and no server. iPhone, iPad, Android and Mac, in 13 languages.
+  Prayer times — from national authorities on their printed minute, Diyanet's for 8,291 places worldwide — the adhan and a qibla compass; the Madinah muṣḥaf in four riwāyāt with recitation, tajweed colours on Ḥafṣ and Warsh, a word reader and tafsir; Tilāwah for listening surah into surah with the screen off, keeping its own place and suggesting what the sunnah recommends at that hour; duas, tasbih, and a fasting and prayer journal; home-screen widgets; and sync between your own devices with no account and no server — all of it painted, if you like, from the sky over the countdown, changing with the hour. iPhone, iPad, Android and Mac, in 13 languages.
 
   **No ads · No analytics · No tracking · Free and open source (AGPL-3.0)**
 
@@ -28,7 +28,7 @@
 
   <br>
 
-  <img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/01_home.png" width="24%" alt="Today — the day’s sky behind the next prayer and its countdown">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/02_quran.png" width="24%" alt="The Madinah muṣḥaf in tajweed colour, the recited word lit">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/05_qibla.png" width="24%" alt="Qibla compass">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/07_tilawah.png" width="24%" alt="Tilawah — listening surah into surah">
+  <img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/01_home.png?v=2026-10-16" width="24%" alt="Today under the Sky theme at sunset — the low sun behind the countdown to Maghrib">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/02_quran.png?v=2026-10-16" width="24%" alt="The Madinah muṣḥaf in tajweed colour, the recited word lit">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/05_qibla.png?v=2026-10-16" width="24%" alt="Qibla compass">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/07_tilawah.png?v=2026-10-16" width="24%" alt="Tilawah — listening surah into surah">
 </div>
 
 ---
@@ -38,7 +38,7 @@
 | | |
 |---|---|
 | [**Mihrab**](https://github.com/MihrabHQ/Mihrab) | The app — iOS, iPadOS, Android and macOS, built with React Native |
-| [**mihrab-methods**](https://github.com/MihrabHQ/mihrab-methods) | Open prayer-time calculations that reproduce national authorities' timetables to the minute — Sweden (Diyanet's method, as in Islamiska Förbundet's timetables), Morocco, Algeria and Indonesia. Free for anyone to use |
+| [**mihrab-methods**](https://github.com/MihrabHQ/mihrab-methods) | Open prayer-time calculations that reproduce national authorities' timetables to the minute — Diyanet's worldwide (8,291 places, Sweden's Islamiska Förbundet among them), Morocco, Algeria and Indonesia. Free for anyone to use |
 | [**homebrew-tap**](https://github.com/MihrabHQ/homebrew-tap) | The Homebrew cask for the Mac app |
 
 ### Get involved
