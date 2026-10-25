@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/github-hero.png?v=2026-10-16" alt="Mihrab, The Muslim Companion — for every prayer, and everything between. Calm, private, offline-first." width="100%">
+  <img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/github-hero.png?v=2026-10-25" alt="Mihrab, The Muslim Companion — for every prayer, and everything between. Calm, private, offline-first." width="100%">
 
   ### The Muslim companion — for every prayer, and everything between
 
@@ -28,7 +28,7 @@
 
   <br>
 
-  <img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/01_home.png?v=2026-10-16" width="24%" alt="Today under the Sky theme at sunset — the low sun behind the countdown to Maghrib">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/02_quran.png?v=2026-10-16" width="24%" alt="The Madinah muṣḥaf in tajweed colour, the recited word lit">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/05_qibla.png?v=2026-10-16" width="24%" alt="Qibla compass">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/07_tilawah.png?v=2026-10-16" width="24%" alt="Tilawah — listening surah into surah">
+  <img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/01_home.png?v=2026-10-25" width="24%" alt="Today under the Sky theme at sunset — the low sun behind the countdown to Maghrib">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/02_quran.png?v=2026-10-16" width="24%" alt="The Madinah muṣḥaf in tajweed colour, the recited word lit">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/05_qibla.png?v=2026-10-16" width="24%" alt="Qibla compass">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/07_tilawah.png?v=2026-10-16" width="24%" alt="Tilawah — listening surah into surah">
 </div>
 
 ---
