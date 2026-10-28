@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/github-hero.png?v=2026-10-25" alt="Mihrab, The Muslim Companion — for every prayer, and everything between. Calm, private, offline-first." width="100%">
+  <img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/github-hero.png?v=2026-10-28" alt="Mihrab, The Muslim Companion — for every prayer, and everything between. Calm, private, offline-first." width="100%">
 
   ### The Muslim companion — for every prayer, and everything between
 
@@ -28,7 +28,9 @@
 
   <br>
 
-  <img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/01_home.png?v=2026-10-25" width="24%" alt="Today under the Sky theme at sunset — the low sun behind the countdown to Maghrib">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/02_quran.png?v=2026-10-16" width="24%" alt="The Madinah muṣḥaf in tajweed colour, the recited word lit">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/05_qibla.png?v=2026-10-16" width="24%" alt="Qibla compass">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/07_tilawah.png?v=2026-10-16" width="24%" alt="Tilawah — listening surah into surah">
+  <img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/01_home.png?v=2026-10-28" width="24%" alt="Today under the Sky theme at sunset — the low sun behind the countdown to Maghrib">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/02_quran.png?v=2026-10-28" width="24%" alt="The Madinah muṣḥaf in tajweed colour, the recited word lit">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/05_qibla.png?v=2026-10-28" width="24%" alt="Qibla compass">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/07_tilawah.png?v=2026-10-28" width="24%" alt="Tilawah — listening surah into surah">
+
+  <img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/12_themes.png?v=2026-10-28" width="49%" alt="Five home screens fanned out, one per look: Light, Dark, Sky in its Realistic and Vibrant colours, and Dark with the green colour theme">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/13_minimal.png?v=2026-10-28" width="49%" alt="Five Minimal mode screens fanned out — the countdown alone in each look, and the sky at night">
 </div>
 
 ---
