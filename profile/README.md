@@ -3,7 +3,7 @@
 
   ### The Muslim companion — for every prayer, and everything between
 
-  Prayer times — from national authorities on their printed minute, Diyanet's for 8,291 places worldwide — the adhan and a qibla compass; the Madinah muṣḥaf in four riwāyāt with recitation, tajweed colours on Ḥafṣ and Warsh, a word reader and tafsir; Tilāwah for listening surah into surah with the screen off, keeping its own place and suggesting what the sunnah recommends at that hour; duas, tasbih, and a fasting and prayer journal; home-screen widgets; and sync between your own devices with no account and no server — all of it painted, if you like, from the sky over the countdown, changing with the hour. iPhone, iPad, Android and Mac, in 13 languages.
+  Prayer times — from national authorities on their printed minute, Diyanet's for 8,291 places worldwide — the adhan and a qibla compass; the Madinah muṣḥaf in four riwāyāt and the IndoPak print, with recitation, tajweed colours on Ḥafṣ and Warsh, a word reader and tafsir; Tilāwah for listening surah into surah with the screen off, keeping its own place and suggesting what the sunnah recommends at that hour; duas, tasbih, and a fasting and prayer journal; home-screen widgets; a Minimal mode that leaves the sky and the countdown alone on the page; and sync between your own devices with no account and no server — all of it painted, if you like, from the sky over the countdown, changing with the hour. iPhone, iPad, Android and Mac, in 13 languages.
 
   **No ads · No analytics · No tracking · Free and open source (AGPL-3.0)**
 
