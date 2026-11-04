@@ -26,6 +26,10 @@
 
   <p><sub>Obtainium is recommended: first to get every update, and it updates itself. Don’t have it? <a href="https://github.com/ImranR98/Obtainium">Get Obtainium</a>.</sub></p>
 
+  <p><b>Windows</b></p>
+
+  <p><a href="https://apps.microsoft.com/detail/9N43KNMJHBWV"><img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/badges/microsoft.png?v=2026-11-04" alt="Get it from the Microsoft Store" height="60"></a></p>
+
   <br>
 
   <img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/01_home.png?v=2026-10-28" width="24%" alt="Today under the Sky theme at sunset — the low sun behind the countdown to Maghrib">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/02_quran.png?v=2026-10-28" width="24%" alt="The Madinah muṣḥaf in tajweed colour, the recited word lit">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/05_qibla.png?v=2026-10-28" width="24%" alt="Qibla compass">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/07_tilawah.png?v=2026-10-28" width="24%" alt="Tilawah — listening surah into surah">
