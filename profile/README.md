@@ -43,8 +43,10 @@
 
 | | |
 |---|---|
-| [**Mihrab**](https://github.com/MihrabHQ/Mihrab) | The app — iOS, iPadOS, Android and macOS, built with React Native |
+| [**Mihrab**](https://github.com/MihrabHQ/Mihrab) | The app — iOS, iPadOS, Android, macOS, Windows and Linux, built with React Native (Electron on Windows and Linux) |
 | [**mihrab-methods**](https://github.com/MihrabHQ/mihrab-methods) | Open prayer-time calculations that reproduce national authorities' timetables to the minute — Diyanet's worldwide (8,291 places, Sweden's Islamiska Förbundet among them), Morocco, Algeria and Indonesia. Free for anyone to use |
+| [**MihrabHQ.github.io**](https://github.com/MihrabHQ/MihrabHQ.github.io) | Mihrab Web — the app in your browser at [mihrabhq.github.io](https://mihrabhq.github.io/), rebuilt from each release |
+| [**packages**](https://github.com/MihrabHQ/packages) | The signed apt, dnf, zypper and pacman repositories for Linux at [mihrabhq.github.io/packages](https://mihrabhq.github.io/packages/) |
 | [**homebrew-tap**](https://github.com/MihrabHQ/homebrew-tap) | The Homebrew cask for the Mac app |
 
 ### Get involved
