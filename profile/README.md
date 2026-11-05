@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/github-hero.png?v=2026-10-28" alt="Mihrab, The Muslim Companion — for every prayer, and everything between. Calm, private, offline-first." width="100%">
+  <img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/github-hero.png?v=2026-11-05" alt="Mihrab, The Muslim Companion — for every prayer, and everything between. Calm, private, offline-first." width="100%">
 
   ### The Muslim companion — for every prayer, and everything between
 
@@ -32,9 +32,11 @@
 
   <br>
 
-  <img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/01_home.png?v=2026-10-28" width="24%" alt="Today under the Sky theme at sunset — the low sun behind the countdown to Maghrib">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/02_quran.png?v=2026-10-28" width="24%" alt="The Madinah muṣḥaf in tajweed colour, the recited word lit">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/05_qibla.png?v=2026-10-28" width="24%" alt="Qibla compass">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/07_tilawah.png?v=2026-10-28" width="24%" alt="Tilawah — listening surah into surah">
+  <img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/xplat.jpg?v=2026-11-05" width="100%" alt="Mihrab on every device at once: a MacBook with Today, an iPad with the muṣḥaf open as a two-page spread, an Android foldable, an Android phone with the countdown to Maghrib and an iPhone in Minimal mode at dawn">
 
-  <img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/12_themes.png?v=2026-10-28" width="49%" alt="Five home screens fanned out, one per look: Light, Dark, Sky in its Realistic and Vibrant colours, and Dark with the green colour theme">&nbsp;<img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/13_minimal.png?v=2026-10-28" width="49%" alt="Five Minimal mode screens fanned out — the countdown alone in each look, and the sky at night">
+  <img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/panels-phone.jpg?v=2026-11-05" width="100%" alt="The eight store panels: For every prayer, and everything between — no ads, open source, no account, no tracking, works offline; to the printed minute, checked against the published timetables of Diyanet, Islamiska Förbundet, Morocco’s Habous, Algeria’s ministry and Kemenag; the Madinah muṣḥaf in tajwīd colour; Tilāwah, surah into surah; translation, tafsīr and tajwīd; hifz, revised on its own cycle; duas, tasbīḥ and fasting; and the adhan, full-screen alerts, widgets and the qibla">
+
+  <img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/panels-wide.jpg?v=2026-11-05" width="100%" alt="One panel per platform: the iPad’s two-page muṣḥaf, Mihrab on a Mac, the remembrance between prayers on Windows, and the month on a Chromebook">
 </div>
 
 ---
