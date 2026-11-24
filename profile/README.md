@@ -3,9 +3,11 @@
 
   ### The Muslim companion — for every prayer, and everything between
 
-  Prayer times — from national authorities on their printed minute, Diyanet's for 8,291 places worldwide — the adhan and a qibla compass; the Madinah muṣḥaf in four riwāyāt and the IndoPak print, with recitation, tajweed colours on Ḥafṣ and Warsh, a word reader and tafsir; Tilāwah for listening surah into surah with the screen off, keeping its own place and suggesting what the sunnah recommends at that hour; duas, tasbih, and a fasting and prayer journal; home-screen widgets; a Minimal mode that leaves the sky and the countdown alone on the page; and sync between your own devices with no account and no server — all of it painted, if you like, from the sky over the countdown, changing with the hour. iPhone, iPad, Android and Mac, in 13 languages.
+  Prayer times — from national authorities on their printed minute, Diyanet's for 8,291 places worldwide — the adhan and a qibla compass; the Madinah muṣḥaf in four riwāyāt and the IndoPak print, with recitation, tajweed colours on Ḥafṣ and Warsh, a word reader and tafsir; Tilāwah for listening surah into surah with the screen off, keeping its own place and suggesting what the sunnah recommends at that hour; duas, tasbih, and a fasting and prayer journal; home-screen widgets; a Minimal mode that leaves the sky and the countdown alone on the page; and sync between your own devices with no account and no server — all of it painted, if you like, from the sky over the countdown, changing with the hour. iPhone, iPad, Android, Mac, Windows and Linux, and in your browser, in 13 languages.
 
   **No ads · No analytics · No tracking · Free and open source (AGPL-3.0)**
+
+  **[Website](https://mihrab.elghamri.se/)** · **[Open Mihrab Web](https://mihrabhq.github.io/)** <sub>— the app in your browser, nothing to install</sub>
 
   <br>
 
@@ -30,6 +32,39 @@
 
   <p><a href="https://apps.microsoft.com/detail/9N43KNMJHBWV"><img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/badges/microsoft.png?v=2026-11-04" alt="Get it from the Microsoft Store" height="60"></a></p>
 
+  <p>winget (the Store's version): <code>winget install 9N43KNMJHBWV</code><br>
+  Scoop: <code>scoop bucket add mihrab https://github.com/MihrabHQ/scoop-bucket</code> then <code>scoop install mihrab/mihrab</code></p>
+
+  <p><sub>Or the installer (<code>.exe</code>, x64 or Arm64) from the <a href="https://github.com/MihrabHQ/Mihrab/releases/latest">latest release</a>. It is not code-signed, so Windows warns the first time: choose “More info”, then “Run anyway”. It does not update itself.</sub></p>
+
+  <p><b>Linux</b> <sub>(preview)</sub></p>
+
+  <p>From your package manager, with Mihrab's signed repositories — updates come with the rest of your system:</p>
+
+  <details><summary>Debian, Ubuntu, Mint (apt)</summary>
+<pre>sudo curl -fsSLo /usr/share/keyrings/mihrab.gpg https://mihrabhq.github.io/packages/mihrab.gpg
+sudo curl -fsSLo /etc/apt/sources.list.d/mihrab.sources https://mihrabhq.github.io/packages/mihrab.sources
+sudo apt update &amp;&amp; sudo apt install mihrab</pre>
+<p><sub>Remove: <code>sudo apt purge mihrab</code></sub></p>
+  </details>
+  <details><summary>Fedora (dnf)</summary>
+<pre>sudo curl -fsSLo /etc/yum.repos.d/mihrab.repo https://mihrabhq.github.io/packages/mihrab.repo
+sudo dnf install mihrab</pre>
+<p><sub>Remove: <code>sudo dnf remove mihrab</code></sub></p>
+  </details>
+  <details><summary>openSUSE (zypper)</summary>
+<pre>sudo zypper addrepo https://mihrabhq.github.io/packages/mihrab.repo
+sudo zypper install mihrab</pre>
+<p><sub>Remove: <code>sudo zypper remove mihrab</code></sub></p>
+  </details>
+  <details><summary>Arch, Manjaro, EndeavourOS (pacman, yay)</summary>
+<pre>curl -fsSL https://mihrabhq.github.io/packages/mihrab.asc | sudo pacman-key --add -
+sudo pacman-key --lsign-key 28BB36D6D8388A8EF15EEA24E19DCF135A3D8035
+printf '\n[mihrab]\nServer = https://mihrabhq.github.io/packages/arch/$arch\n' | sudo tee -a /etc/pacman.conf
+sudo pacman -Syu mihrab</pre>
+<p><sub>Remove: <code>sudo pacman -R mihrab</code></sub></p>
+  </details>
+
   <br>
 
   <img src="https://raw.githubusercontent.com/MihrabHQ/Mihrab/main/branding/readme/xplat.jpg?v=2026-11-05" width="100%" alt="Mihrab on every device at once: a MacBook with Today, an iPad with the muṣḥaf open as a two-page spread, an Android foldable, an Android phone with the countdown to Maghrib and an iPhone in Minimal mode at dawn">
@@ -50,6 +85,7 @@
 | [**MihrabHQ.github.io**](https://github.com/MihrabHQ/MihrabHQ.github.io) | Mihrab Web — the app in your browser at [mihrabhq.github.io](https://mihrabhq.github.io/), rebuilt from each release |
 | [**packages**](https://github.com/MihrabHQ/packages) | The signed apt, dnf, zypper and pacman repositories for Linux at [mihrabhq.github.io/packages](https://mihrabhq.github.io/packages/) |
 | [**homebrew-tap**](https://github.com/MihrabHQ/homebrew-tap) | The Homebrew cask for the Mac app |
+| [**scoop-bucket**](https://github.com/MihrabHQ/scoop-bucket) | The Scoop bucket for Windows, which follows each release and installs it on Windows before passing it on |
 
 ### Get involved
 
